@@ -1,8 +1,11 @@
 import './app.css';
+import Profile from './portfolioContaner/Home/Profile';
 
 function App() {
   return (
-    <div>App</div>
+    <div className='App'>
+      <Profile/>
+    </div>
   );
 }
 
