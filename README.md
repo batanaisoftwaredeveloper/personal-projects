@@ -1,12 +1,12 @@
 # personal-projects
 designed by:
-Batanayi Gwanyanya 
-Founder of inventive code
-CS graduate
-Full Stack Developer
-Web Developer
-email: batanai178@gmail.com
-cell: +27 61 788 9441
+Batanayi Gwanyanya ||
+Founder of inventive code ||
+CS graduate ||
+Full Stack Developer ||
+Web Developer ||
+email: batanai178@gmail.com ||
+cell: +27 61 788 9441 ||
 
 About the project:
 - Developed using HTML, CSS, JAVASCRIPT
